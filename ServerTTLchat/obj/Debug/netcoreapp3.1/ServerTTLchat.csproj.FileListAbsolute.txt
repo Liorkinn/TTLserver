@@ -1,0 +1,13 @@
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\bin\Debug\netcoreapp3.1\ServerTTLchat.exe
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\bin\Debug\netcoreapp3.1\ServerTTLchat.deps.json
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\bin\Debug\netcoreapp3.1\ServerTTLchat.runtimeconfig.json
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\bin\Debug\netcoreapp3.1\ServerTTLchat.runtimeconfig.dev.json
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\bin\Debug\netcoreapp3.1\ServerTTLchat.dll
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\bin\Debug\netcoreapp3.1\ServerTTLchat.pdb
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\obj\Debug\netcoreapp3.1\ServerTTLchat.csprojAssemblyReference.cache
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\obj\Debug\netcoreapp3.1\ServerTTLchat.AssemblyInfoInputs.cache
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\obj\Debug\netcoreapp3.1\ServerTTLchat.AssemblyInfo.cs
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\obj\Debug\netcoreapp3.1\ServerTTLchat.csproj.CoreCompileInputs.cache
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\obj\Debug\netcoreapp3.1\ServerTTLchat.dll
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\obj\Debug\netcoreapp3.1\ServerTTLchat.pdb
+C:\Users\Liorkin\source\repos\ServerTTLchat\ServerTTLchat\obj\Debug\netcoreapp3.1\ServerTTLchat.genruntimeconfig.cache
